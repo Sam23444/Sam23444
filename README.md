@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **Web
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
 
 ## 📫 How to Reach Me
 
