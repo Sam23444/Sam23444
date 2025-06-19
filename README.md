@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I’m a passionate developer specializing in **Web
 
 - **Python**:
   - Data Analysis: Pandas, NumPy
-  - Machine Learning: Scikit-learn, TensorFlow, Keras
+  - Machine Learning: Scikit-learn, TensorFlow
   - Web Development: Django, Flask
-  - Automation: Selenium, BeautifulSoup
+ 
 
 ## 🔥 Current Projects
 
